@@ -1,0 +1,7 @@
+Metric,Value,Unit,Note
+Average Latency,0.007,ms,TinyML inference only
+Maximum Latency,0.118,ms,TinyML inference only
+Frame Duration,198.0,ms,3168 samples at 16 kHz
+Real-Time Factor,0.0,ratio,TinyML inference only
+Samples,206,count,206-sample evaluation set
+Total Frames,3272,count,206-sample evaluation set
